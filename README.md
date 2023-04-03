@@ -3,134 +3,134 @@ This repository contains everything you need to become proficient in Deep Learni
 
 # Neural Networks
 
-Neural Networks basics
+[Neural Networks basics](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Different types of neural networks
+[Different types of neural networks](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Linear Classifiers
+[Linear Classifiers](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Optimization
+[Optimization](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Hyper Parameter Tuning
+[Hyper Parameter Tuning](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Gradient Descent
+[Gradient Descent](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Backpropagation Algorithm
+[Backpropagation Algorithm](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Regularization — L2 and dropout regularization
+[Regularization — L2 and dropout regularization](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Batch normalization
+[Batch normalization](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Build a neural network in Keras
+[Build a neural network in Keras](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Build a Neural Network With Pytorch
+[Build a Neural Network With Pytorch](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Build a neural network in TensorFlow
+[Build a neural network in TensorFlow](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Train Neural Networks
+[Train Neural Networks](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Feedforward neural network
+[Feedforward neural network](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Popular Optimization Algorithms
+[Popular Optimization Algorithms](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Activation Functions
+[Activation Functions](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Strategies for reducing errors
+[Strategies for reducing errors](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Shallow Neural Networks
+[Shallow Neural Networks](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
 # Convolutional Neural Networks
 
-Convolution basics and CNN Architectures
+[Convolution basics and CNN Architectures](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Residual networks
+[Residual networks](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Build a Convolutional Network
+[Build a Convolutional Network](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Batch Normalization and Dropout
+[Batch Normalization and Dropout](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
 # Recurrent Neural Networks
 
-RNN Basics
+[RNN Basics](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-LSTM: Long Short Term Memory Cells
+[LSTM: Long Short Term Memory Cells](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Natural language processing and Word Embeddings
+[Natural language processing and Word Embeddings](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
 # Tensorflow
 
-Tensorflow basics
+[Tensorflow basics](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Tensorflow Playground
+[Tensorflow Playground](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Custom Loss Functions
+[Custom Loss Functions](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Custom Layers and Models
+[Custom Layers and Models](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Callbacks
+[Callbacks](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Distributed Training
+[Distributed Training](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Data Pipelines with TensorFlow Data Services
+[Data Pipelines with TensorFlow Data Services](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Performance
+[Performance](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
 # Autoencoders
 
-Autoencoders Basics
+[Autoencoders Basics](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Generative Learning
+[Generative Learning](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
 # Generative Adversarial Networks
 
-Generative Adversarial Networks Basics
+[Generative Adversarial Networks Basics](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Useful activation functions and Batch normalization
+[Useful activation functions and Batch normalization](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Transposed convolutions
+[Transposed convolutions](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Generator and Discriminator
+[Generator and Discriminator](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Deep Convolutional Generative Adversarial Networks
+[Deep Convolutional Generative Adversarial Networks](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Implement Generative Adversarial Networks
+[Implement Generative Adversarial Networks](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
 # Attention and Transformers
 
-Attention and Transformers Basics
+[Attention and Transformers Basics](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Sequence to Sequence Models
+[Sequence to Sequence Models](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Attention
+[Attention](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Multi-Head Self-Attention
+[Multi-Head Self-Attention](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Building Blocks of Transformers
+[Building Blocks of Transformers](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Encoder
+[Encoder](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Decoder
+[Decoder](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Parameters Sharing
+[Parameters Sharing](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Build a Transformer Encoder
+[Build a Transformer Encoder](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
 # Graph Neural Networks
 
-Basics of Graphs
+[Basics of Graphs](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Graph Convolutional Networks
+[Graph Convolutional Networks](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Implement — Graph Convolutional Network
+[Implement — Graph Convolutional Network](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
 # Natural Language Processing
 
-Natural Language Processing Basics
+[Natural Language Processing Basics](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Probabilistic Models
+[Probabilistic Models](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Sequence Models
+[Sequence Models](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-Attention Models
+[Attention Models](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
 
-# Federated learning
+[Federated learning](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
