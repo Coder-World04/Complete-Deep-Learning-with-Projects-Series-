@@ -1,6 +1,14 @@
 # Complete-Deep-Learning-with-Projects-Series-
 This repository contains everything you need to become proficient in Deep Learning
 
+[Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[I took theses Projects Based Courses to Build Industry aligned Data Science and ML skills](https://open.substack.com/pub/naina0405/p/i-took-theses-projects-based-courses-af3?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Part 1 - How to solve Any ML System Design Problem](https://open.substack.com/pub/naina0405/p/part-1-how-to-solve-any-ml-system?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+--------
+
 # Neural Networks
 
 [Neural Networks basics](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046?sk=ac0dacd3bce951bc2d63cf8fd30a6bde)
